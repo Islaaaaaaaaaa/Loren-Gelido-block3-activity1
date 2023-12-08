@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LorenGelido-Block3-Quiz</string>
+    <string name="log_in">Log in</string>
+    <string name="username">username</string>
 </resources>
